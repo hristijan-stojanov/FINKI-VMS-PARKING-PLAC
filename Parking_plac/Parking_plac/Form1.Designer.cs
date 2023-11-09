@@ -33,8 +33,10 @@ namespace Parking_plac
             this.Open = new System.Windows.Forms.Button();
             this.close = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.brVozila = new System.Windows.Forms.TextBox();
+            this.Code = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.Cena = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // Open
@@ -63,22 +65,41 @@ namespace Parking_plac
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // brVozila
+            // Code
             // 
-            this.brVozila.Enabled = false;
-            this.brVozila.Location = new System.Drawing.Point(32, 86);
-            this.brVozila.Name = "brVozila";
-            this.brVozila.Size = new System.Drawing.Size(100, 22);
-            this.brVozila.TabIndex = 2;
+            this.Code.Location = new System.Drawing.Point(32, 86);
+            this.Code.Name = "Code";
+            this.Code.Size = new System.Drawing.Size(100, 22);
+            this.Code.TabIndex = 2;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(27, 47);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(105, 17);
+            this.label1.Size = new System.Drawing.Size(148, 17);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Slobodni mesta";
+            this.label1.Text = "Vnesi code za naplata";
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.Highlight;
+            this.button1.Location = new System.Drawing.Point(32, 123);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(100, 27);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "Presmetaj";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // Cena
+            // 
+            this.Cena.AutoSize = true;
+            this.Cena.Location = new System.Drawing.Point(29, 165);
+            this.Cena.Name = "Cena";
+            this.Cena.Size = new System.Drawing.Size(46, 17);
+            this.Cena.TabIndex = 5;
+            this.Cena.Text = "label2";
             // 
             // Form1
             // 
@@ -86,8 +107,10 @@ namespace Parking_plac
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(399, 247);
+            this.Controls.Add(this.Cena);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.brVozila);
+            this.Controls.Add(this.Code);
             this.Controls.Add(this.close);
             this.Controls.Add(this.Open);
             this.Name = "Form1";
@@ -102,8 +125,10 @@ namespace Parking_plac
         private System.Windows.Forms.Button Open;
         private System.Windows.Forms.Button close;
         private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.TextBox brVozila;
+        private System.Windows.Forms.TextBox Code;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label Cena;
     }
 }
 

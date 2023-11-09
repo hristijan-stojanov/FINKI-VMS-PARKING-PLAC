@@ -18,3 +18,13 @@ D:\ФИНКИ\4 Четврт семестар\Вградливи микропр�
 D:\ФИНКИ\4 Четврт семестар\Вградливи микропроцесорски системи\Проект\Parking_plac\Parking_plac\obj\Debug\Parking_plac.csproj.CoreCompileInputs.cache
 D:\ФИНКИ\4 Четврт семестар\Вградливи микропроцесорски системи\Проект\Parking_plac\Parking_plac\obj\Debug\Parking_plac.exe
 D:\ФИНКИ\4 Четврт семестар\Вградливи микропроцесорски системи\Проект\Parking_plac\Parking_plac\obj\Debug\Parking_plac.pdb
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\bin\Debug\Parking_plac.exe.config
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\bin\Debug\Parking_plac.exe
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\bin\Debug\Parking_plac.pdb
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\obj\Debug\Parking_plac.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\obj\Debug\Parking_plac.Form1.resources
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\obj\Debug\Parking_plac.Properties.Resources.resources
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\obj\Debug\Parking_plac.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\obj\Debug\Parking_plac.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\obj\Debug\Parking_plac.exe
+C:\Users\PC\Desktop\kpp\FINKI-VMS-PARKING-PLAC-main\Parking_plac\Parking_plac\obj\Debug\Parking_plac.pdb
